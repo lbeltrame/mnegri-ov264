@@ -1,0 +1,3 @@
+patient,samplename,bamfile,type
+21507,21507_ovary,/home/resops25/bams/21507T-ready.bam,tissue
+21507,21507_PL,/home/resops25/bams/21507_PL9-ready.bam,cfdna
